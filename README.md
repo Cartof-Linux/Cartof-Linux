@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cartof-Linux!
 - 👀 I’m interested in running ARM Windows on mobile phones having Snapdragon CPUs.
-- 🌱 I’m currently learning coding and I am being interested to learn about computer science in order to build steps for the dream of having Windows on newer devices.
+- 🌱 I’m currently learning coding and I am interested to learn about computer science in order to build steps for the dream of having Windows on newer devices.
 - ⚡ Fun fact: In order to make UEFI and drivers for a phone, you need to know this : "A journey of a thousand miles begins with a single step.".
 
 <!---
